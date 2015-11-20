@@ -8,7 +8,7 @@
 <title>Registration Page</title>
 </head>
 <body>
-
+<h1>Cognizant Technology Solution</h1>
 <form:form method="POST" commandName="user">
 	<table>
 		<tr>
