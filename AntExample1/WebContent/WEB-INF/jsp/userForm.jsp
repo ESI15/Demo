@@ -8,7 +8,7 @@
 <title>Registration Page</title>
 </head>
 <body>
-<h1>Cognizant T</h1>
+<h1>Cognizant Tes</h1>
 <form:form method="POST" commandName="user">
 	<table>
 		<tr>
