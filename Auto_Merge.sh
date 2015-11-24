@@ -8,9 +8,9 @@ LAST_COMMIT=$(git rev-list -1 HEAD)
 echo Automatically merging commit $LAST_COMMIT from $CURRENT_BRANCH rippling to master
 
 case $CURRENT_BRANCH in
-test)
-  git checkout Integration-Releases
-  git merge $CURRENT_BRANCH
+Integration-Releases)
+  #git checkout Integration-Releases
+  #git merge $CURRENT_BRANCH
   git checkout master
   git merge $CURRENT_BRANCH
   git checkout $CURRENT_BRANCH
