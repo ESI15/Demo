@@ -2,7 +2,7 @@
 # Automatically merge the last commit through the following branches:
 # Integration-Releases -} master
 
-git checkout -b issue-001 master
+#git checkout -b issue-001 master
 
 CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
 LAST_COMMIT=$(git rev-list -1 HEAD)
