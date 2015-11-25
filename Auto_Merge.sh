@@ -17,7 +17,7 @@ issue-001)
   git merge $CURRENT_BRANCH
   git push
   git checkout Integration-Releases
-  git merge issue-#001
+  git merge $CURRENT_BRANCH
   git push
  #git branch -d issue-#001
   ;;
