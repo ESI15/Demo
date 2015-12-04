@@ -9,7 +9,7 @@
 <title>Registration Page EMP</title>
 </head>
 <body>
-<h1>Cognizant Technology  Solution</h1>
+<h1>Cognizant Technology  </h1>
 <form:form method="POST" commandName="user">
 
 	<table>
