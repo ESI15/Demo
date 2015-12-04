@@ -10,7 +10,7 @@
 </head>
 <body>
 <<<<<<< HEAD
-<h1>Cognizant Technology  </h1>
+<h1>Cognizant Technology Reddy </h1>
 =======
 <<<<<<< HEAD
 <h1>Cognizant Test </h1>
