@@ -9,7 +9,15 @@
 <title>Registration Page EMP</title>
 </head>
 <body>
+<<<<<<< HEAD
 <h1>Cognizant Technology  </h1>
+=======
+<<<<<<< HEAD
+<h1>Cognizant Test </h1>
+=======
+<h1>Cognizant Technology  Solution</h1>
+>>>>>>> 46b94971157004bc4e2b04087cbc98cdd0caf8ef
+>>>>>>> refs/heads/Integration-Releases
 <form:form method="POST" commandName="user">
 
 	<table>
