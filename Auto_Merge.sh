@@ -11,10 +11,10 @@ case $CURRENT_BRANCH in
 Hotfix)
   git checkout master
     git merge $CURRENT_BRANCH
-      git push https://ESI15:admin123@github.com/ESI15/Demo.git
+      git push 
         git checkout Integration-Releases
 	  git merge $CURRENT_BRANCH
-	    git push https://ESI15:admin123@github.com/ESI15/Demo.git
+	    git push 
 	      git checkout $CURRENT_BRANCH
 	        ;;
 		esac
