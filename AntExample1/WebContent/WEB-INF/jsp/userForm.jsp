@@ -12,7 +12,7 @@
 <<<<<<< HEAD
 <h1>Cognizant Test </h1>
 =======
-<h1>Cognizant Technology </h1>
+<h1>Cognizant Technology sloution</h1>
 >>>>>>> 46b94971157004bc4e2b04087cbc98cdd0caf8ef
 <form:form method="POST" commandName="user">
 
