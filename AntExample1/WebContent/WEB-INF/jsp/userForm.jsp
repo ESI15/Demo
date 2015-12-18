@@ -10,7 +10,7 @@
 </head>
 <body>
 <<<<<<< HEAD
-<h1>Cognizant Test solution CTS</h1>
+<h1>Cognizant Test solution</h1>
 =======
 <h1>Cognizant Technology sloution</h1>
 >>>>>>> 46b94971157004bc4e2b04087cbc98cdd0caf8ef
